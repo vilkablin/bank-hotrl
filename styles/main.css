@@ -203,12 +203,12 @@ nav {
   color: #fffcf6;
 }
 
-.art {
+.artd {
   align-items: flex-end;
   gap: 10px;
 }
 
-.art p {
+.artd p {
   font-family: var(--font-family);
   font-weight: 400;
   font-size: 26px;
@@ -217,7 +217,7 @@ nav {
   color: #fffcf6;
 }
 
-.art span {
+.artd span {
   font-style: italic;
 }
 
